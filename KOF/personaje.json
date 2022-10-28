@@ -1,0 +1,45 @@
+[
+  {
+
+    "name": "mike",
+    "lastname": "herrera",
+    "birthday": "2003-11-02",
+    "utiliza_magia": 1,
+    "estatura": 91 ,
+    "peso":30,
+    "equipo": 50,
+    "magia_id":1,
+    "tipo_lucha_id": 1
+
+  },
+
+  {
+
+    "name": "alejandro",
+    "lastname": "talavera",
+    "birthday": "2001-11-02",
+    "utiliza_magia": 1,
+    "estatura": 91 ,
+    "peso":30,
+    "equipo": 50,
+    "magia_id":1,
+    "tipo_lucha_id": 1
+
+  },
+
+
+  {
+
+    "name": "Marios",
+    "lastname": "Gomez",
+    "birthday": "2004-05-08",
+    "utiliza_magia": 1,
+    "estatura": 94 ,
+    "peso":80,
+    "equipo": 56,
+    "magia_id":1,
+    "tipo_lucha_id": 2
+
+  }  
+
+]
